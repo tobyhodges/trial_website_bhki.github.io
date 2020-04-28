@@ -22,8 +22,8 @@ title: Welcome to Bioinformatics Hub of Kenya Intiative
 email: bioinformaticshubofkenya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   
-baseurl: "/trial_website_bhki.github.io/" # the subpath of your site, e.g. /blog
-url: "https://bioinformatics-hub-ke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/trial_website_bhki.github.io//" # the subpath of your site, e.g. /blog
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BioinfoHub_KE
 github_username:  bioinformatics-hub-ke
 
